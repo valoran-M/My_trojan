@@ -89,4 +89,6 @@ _deps
 .history
 .ionide
 
+server_conf/*
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,cmake,c
